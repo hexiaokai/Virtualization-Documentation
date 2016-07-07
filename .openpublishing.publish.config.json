@@ -18,8 +18,6 @@
       "build_entry_point": "op",
       "count": 1,
       "tab_name": "Microsoft_Windows-Container-Documentation-Private_community",
-      "docset_name": "Microsoft_Windows-Container-Documentation-Private_community",
-      "base_path": "virtualization/community",
       "originDocset": {
         "name": "Microsoft_Windows-Container-Documentation-Private_community",
         "build_source_folder": null,
