@@ -34,5 +34,5 @@
         }
     ],
     "notification_subscribers": ["nepeters@microsoft.com","scooley@microsoft.com"],
-    "branch_filters": [ "live", "master-sync-work" ]
+    "branches_to_filter": [ "live", "master-sync-work" ]
 }
