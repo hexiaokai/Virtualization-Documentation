@@ -37,7 +37,7 @@
     {
       "docset_name": "herohua-Microsoft_Windows-Container-Documentation-Private_hyperv_on_windows",
       "build_source_folder": "virtualization/hyperv_on_windows",
-      "build_output_subfolder": "herohua-forked/virtualization/hyperv_on_windows",
+      "build_output_subfolder": "herohua-docs/virtualization/hyperv_on_windows",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -51,7 +51,7 @@
     {
       "docset_name": "herohua-Microsoft_Windows-Container-Documentation-Private_windowscontainers",
       "build_source_folder": "virtualization/windowscontainers",
-      "build_output_subfolder": "herohua-forked/virtualization/windowscontainers",
+      "build_output_subfolder": "herohua-docs/virtualization/windowscontainers",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
