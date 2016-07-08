@@ -64,8 +64,7 @@
     }
   ],
   "notification_subscribers": [
-    "nepeters@microsoft.com",
-    "scooley@microsoft.com"
+    "yih@microsoft.com"
   ],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/Microsoft/Virtualization-Documentation",
