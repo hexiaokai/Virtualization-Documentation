@@ -15,24 +15,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
-      "count": 1,
-      "tab_name": "Microsoft_Windows-Container-Documentation-Private_community",
-      "originDocset": {
-        "name": "Microsoft_Windows-Container-Documentation-Private_community",
-        "build_source_folder": null,
-        "build_output_subfolder": "virtualization/community",
-        "locale": "en-us",
-        "version": 0,
-        "build_entry_point": null,
-        "open_to_public_contributors": true,
-        "type_mapping": {
-          "Conceptual": "Content"
-        },
-        "template_folder": null
-      },
-      "deletable": false,
-      "active": true
+      "build_entry_point": "op"
     },
     {
       "docset_name": "herohua-Microsoft_Windows-Container-Documentation-Private_hyperv_on_windows",
